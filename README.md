@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Prepare your Front End
+https://github.com/bervProject/react-graphql-client.git
+
+
 ## Available Scripts
 
 In the project directory, you can run:

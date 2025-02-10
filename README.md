@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Prepare your Front End
 https://github.com/bervProject/react-graphql-client.git
+References: Getting started with GraphQL in .NET 6 - Part 3 (Consume with ApolloClient React) - DEV Community
+
+
 
 
 ## Available Scripts
